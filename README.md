@@ -3,7 +3,7 @@
 
 A final group project created by Joseph Schley, Steven Miller, and HongQiang Sun. 
 
-The purpose of this project as to use two different kinds of data structures and figure out which data strucuture is more efficient for organizing massive datasets. In this case, the dataset we used was LAPD crime data from the years 2011-2017.
+The purpose of this project was to use two different kinds of algorithms and figure out which algorithm is more efficient for organizing massive datasets. In this case, the dataset we used was LAPD crime data from the years 2011-2017.
 
 The project uses two algorithms for comparison, a fibonacci heap and a min heap-based hash table.
 
